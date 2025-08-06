@@ -1,6 +1,5 @@
-READ ME
 
-# Calculadora REST com Spring Boot
+# TP1 - Calculadora REST com Spring Boot
 
 Este projeto é uma API REST simples desenvolvida em Spring Boot que oferece operações matemáticas básicas: soma, subtração, multiplicação, divisão e exponenciação.
 
